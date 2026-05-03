@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         paddingHorizontal: 20,
         marginTop: 24,
-        gap: 12,
+        gap: 20,
     },
     supportCard: {
         flexDirection: 'row',
